@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-01 14:30">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1706437529">Двигатель Magnum</category>
+    </categories>
+    <offers>
+      <offer id="242918504967756852574639696376737471451" available="true" type="vendor.model">
+        <name>Купить двигатель Dodge Magnum 2004 300 EZB 5.7L HEMI</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999.00</price>
+        <oldprice>175998.90</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1706437529</categoryId>
+        <collectionId>1706437529</collectionId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_289.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_272.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_278.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_281.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Chrysler</vendor>
+        <model>Dodge Magnum 2004 300 EZB 5.7L HEMI 5139102AA</model>
+        <description>ДВС Dodge Magnum 300 EZB 5.7L HEMI - ориг. проб. 179 470км - Проверен на работу</description>
+        <custom_label_0>Chrysler</custom_label_0>
+        <custom_label_1>Двигатель Magnum</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Контрактный</custom_label_3>
+        <param name="ID товара">154529</param>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="1706437529">
+        <url>https://cartune-euro.ru/dodge/vse-modeli/dvigatel/</url>
+        <name>Двигатель Magnum</name>
+        <description>Двигатель Magnum</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_289.jpg</picture>
+      </collection>
+      <collection id="col_242918504967756852574639696376737471451">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Chrysler Dodge Magnum 2004 300 EZB 5.7L HEMI 5139102AA</name>
+        <description>ДВС Dodge Magnum 300 EZB 5.7L HEMI - ориг. проб. 179 470км - Проверен на работу</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_289.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
