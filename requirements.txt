@@ -1,0 +1,9 @@
+crawl4ai
+pydantic
+lxml
+beautifulsoup4
+aiohttp
+playwright
+Pillow
+backoff
+requests

@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 22:56">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3080099538">Двигатели для Dodge все модели</category>
+    </categories>
+    <offers>
+      <offer id="194282362340251064790283659375170986027" available="true" type="vendor.model">
+        <name>Двигатель Dodge Magnum 2004 5.7L c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_274.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_347.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_275.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Dodge</vendor>
+        <model>Magnum 2004 5.7L</model>
+        <description>Оригинальный двигатель Dodge Magnum 300 EZB 5.7L HEMI с пробегом 179470 км. Проверен на работоспособность. В комплекте аукционный лист и полный пакет документов</description>
+        <sales_notes>Пробег 179470 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Dodge</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+        <param name="Пробег">179470 км</param>
+      </offer>
+      <offer id="97277070511487223935167424661336608044" available="true" type="vendor.model">
+        <name>Двигатель Dodge Magnum 2004 5.7L с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_274.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_347.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_275.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Dodge</vendor>
+        <model>Magnum 2004 5.7L</model>
+        <description>Контрактный двигатель Dodge Magnum 2004 5.7L HEMI. Пробег 179470 км. Возможна продажа без навесного оборудования. Предоставим подробное фото и видео работы</description>
+        <sales_notes>Пробег 179470 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Dodge</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+        <param name="Пробег">179470 км</param>
+      </offer>
+      <offer id="155927045275189070415673194445273030498" available="true" type="vendor.model">
+        <name>Двигатель Dodge Magnum 2004 5.7L заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_274.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_347.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_275.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Dodge</vendor>
+        <model>Magnum 2004 5.7L</model>
+        <description>Двигатель Dodge Magnum 300 EZB 5.7L HEMI. Оригинальный пробег 179470 км. Есть аукционный лист из Японии. Проверка эндоскопом по запросу</description>
+        <sales_notes>Пробег 179470 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Dodge</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+        <param name="Пробег">179470 км</param>
+      </offer>
+      <offer id="327567096337010032028434513838896180313" available="true" type="vendor.model">
+        <name>Двигатель Dodge Magnum 2004 5.7L купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_274.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_347.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_275.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Dodge</vendor>
+        <model>Magnum 2004 5.7L</model>
+        <description>Двигатель в сборе Dodge Magnum 2004 5.7L HEMI. Цена указана как на фото. Предоставляем копию ГТД и договор купли-продажи</description>
+        <sales_notes>Пробег 179470 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Dodge</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+        <param name="Пробег">179470 км</param>
+      </offer>
+      <offer id="93458115991299637999842809997500962702" available="true" type="vendor.model">
+        <name>Двигатель Dodge Magnum 2004 5.7L по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_274.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_347.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_275.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Dodge</vendor>
+        <model>Magnum 2004 5.7L</model>
+        <description>Двигатель Dodge Magnum 2004 5.7L HEMI с пробегом 179470 км. Проверен, работоспособен. Возможна продажа без навесного. Документы для учёта</description>
+        <sales_notes>Пробег 179470 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Dodge</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+        <param name="Пробег">179470 км</param>
+      </offer>
+      <offer id="313568045372108967634544518186448172910" available="true" type="vendor.model">
+        <name>Двигатель Dodge Magnum 2004 5.7L узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <price>159999</price>
+        <oldprice>175998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_274.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_347.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_273.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_275.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Dodge</vendor>
+        <model>Magnum 2004 5.7L</model>
+        <description>Оригинальный двигатель Dodge Magnum 300 EZB 5.7L HEMI. Пробег 179470 км. Аукционный лист, ГТД, договор. Проверка эндоскопом по запросу</description>
+        <sales_notes>Пробег 179470 км, аукционный лист, полный пакет</sales_notes>
+        <custom_label_0>Dodge</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Двигатель</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">300</param>
+        <param name="Двигатель">EZB 5.7L HEMI</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">5139102AA</param>
+        <param name="Пробег">179470 км</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_194282362340251064790283659375170986027">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Dodge Magnum 2004 5.7L c доставкой</name>
+        <description>Контрактная Двигатель Dodge Magnum (кузов 300, двс EZB 5.7L HEMI)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+      </collection>
+      <collection id="col_97277070511487223935167424661336608044">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Dodge Magnum 2004 5.7L с гарантией</name>
+        <description>Контрактная Двигатель Dodge Magnum (кузов 300, двс EZB 5.7L HEMI)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+      </collection>
+      <collection id="col_155927045275189070415673194445273030498">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Dodge Magnum 2004 5.7L заказать</name>
+        <description>Контрактная Двигатель Dodge Magnum (кузов 300, двс EZB 5.7L HEMI)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+      </collection>
+      <collection id="col_327567096337010032028434513838896180313">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Dodge Magnum 2004 5.7L купить</name>
+        <description>Контрактная Двигатель Dodge Magnum (кузов 300, двс EZB 5.7L HEMI)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+      </collection>
+      <collection id="col_93458115991299637999842809997500962702">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Dodge Magnum 2004 5.7L по низкой цене</name>
+        <description>Контрактная Двигатель Dodge Magnum (кузов 300, двс EZB 5.7L HEMI)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+      </collection>
+      <collection id="col_313568045372108967634544518186448172910">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a1/</url>
+        <name>Двигатель Dodge Magnum 2004 5.7L узнать стоимость</name>
+        <description>Контрактная Двигатель Dodge Magnum (кузов 300, двс EZB 5.7L HEMI)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/40/0011_40_099.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>

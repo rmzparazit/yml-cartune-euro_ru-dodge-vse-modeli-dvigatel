@@ -1,0 +1,9 @@
+{
+    "selectors": {
+        "h1_title": "h1.h2",
+        "price": ".c-product-info__price-block__price",
+        "description": ".c-description__comment .h-ws-pre-wrap",
+        "images": ".c-gallery__main img"
+    },
+    "semantic_pattern": "Контрактный двигатель {brand} {specs[Модель]} {specs[Год]} {specs[Кузов]} {specs[Двигатель]}. Пробег {specs[Пробег]} км. Гарантия."
+}
